@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Template
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+
+#Vídeo: O Futuro das Redes Inteligentes com IA 🎥
 
 ## 📒 Descrição
 Este vídeo de 30 segundos apresenta como as ferramentas de Inteligência Artificial estão transformando a infraestrutura de redes, tornando as operações mais inteligentes, seguras e eficientes.
